@@ -1,6 +1,6 @@
 # Racoon 🦝
 
-Proof of concept monorepo to support all purchase journey related projects.
+Proof of concept monorepo to support all purchase journey related projects. 
 
 ## Why Racoon?
 
